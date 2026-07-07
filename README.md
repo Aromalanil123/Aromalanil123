@@ -185,12 +185,12 @@ Completed a structured training program covering Java programming fundamentals a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aromalanil123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aromalanil123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9"/>
 <img height="165" src="https://streak-stats.demolab.com?user=Aromalanil123&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa"/>
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aromalanil123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aromalanil123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 
 </div>
 
