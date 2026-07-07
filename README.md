@@ -1,20 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:1e1b4b,50:4c1d95,100:6d28d9&height=220&section=header&text=Aromal%20Anil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:6d28d9&height=220&section=header&text=Aromal%20Anil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;AI+%2F+ML+%7C+Data+Analysis+Enthusiast;Building+Intelligent+Data-Driven+Systems;Open+To+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+%2F+ML+%7C+Data+Analysis+Enthusiast;Building+Intelligent+Data-Driven+Systems;Full+Stack+%7C+NLP+%7C+Machine+Learning;Open+To+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![CSE Student](https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-6d28d9?style=flat-square&logo=googlescholar&logoColor=white)
-![University](https://img.shields.io/badge/Lovely%20Professional%20University-CGPA%207.25-7c3aed?style=flat-square&logo=bookstack&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Punjab%2C%20India-4c1d95?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=4c1d95)](https://github.com/Aromalanil123)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=4c1d95)](https://aromalanil123.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=5b21b6)](https://www.linkedin.com/in/aromal-anil13)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=6d28d9)](mailto:aromalanil21@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=7c3aed)](https://github.com/Aromalanil123)
@@ -32,8 +30,8 @@
 ### 🧠 About Me
 
 ```
-I am a Computer Science Engineering student at Lovely Professional University with a
-strong foundation in software engineering, data analysis, and applied machine learning.
+A builder with a strong foundation in software engineering, data analysis,
+and applied machine learning.
 ```
 
 - 🔭 I build **AI/ML-powered data systems** — from NLP-based resume screening engines to sentiment analysis pipelines for e-commerce intelligence.
@@ -166,20 +164,6 @@ Completed a structured training program covering Java programming fundamentals a
 
 ---
 
-### 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🥈 Intermediate (PCM) | 88% — Kendriya Vidyalaya Kannur |
-| 🥇 Matriculation | 94% — Kendriya Vidyalaya Kannur |
-| 🎓 B.Tech CSE | CGPA 7.25 — Lovely Professional University |
-
-</div>
-
----
-
 ### 📜 Certifications
 
 **Forage**
@@ -273,6 +257,7 @@ Open To:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aromalanil21@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aromal-anil13)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aromalanil123)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aromalanil123.github.io/)
 
 </div>
 
@@ -282,6 +267,6 @@ Open To:
 
 _"Turning data into decisions, and code into impact."_
 
-<img width="100%" src="https://capsule-render.com/api?type=waving&color=0:6d28d9,50:4c1d95,100:1e1b4b&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4c1d95,100:1e1b4b&height=120&section=footer"/>
 
 </div>
